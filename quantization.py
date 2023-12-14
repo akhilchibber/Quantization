@@ -1,6 +1,6 @@
 '''
 The Goal of this Python Script is to Automate the entire Quantization process as part of the Discrete Global Grid
-System (DGGS) UNL Cell Based Analytics Project, which we have performed based on a five step process by using
+System (DGGS) Cell Based Analytics Project, which we have performed based on a five step process by using
 ClickHouse OLAP.
 '''
 
