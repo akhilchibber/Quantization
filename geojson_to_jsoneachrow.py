@@ -1,7 +1,7 @@
 '''
 The Goal of this Python Script is to convert an input Point .geojson Geo-Spatial Dataset into JSONEachRow
 Nested Structure for inserting it into ClickHouse, which is used as part of the Data Upload Process which is
-part of the Project UNL Cell Based Analytics
+part of the Project DGGS Cell Based Analytics
 '''
 
 # Importing the essential library
