@@ -8,9 +8,9 @@ Quantization using ClickHouse is a service in for Converting Non-DGGS data to DG
 
 ### Key Features:
 
-1. DGGS Conversion: The service takes non-DGGS geospatial datasets and converts them into the UNL Geohash grid id system, covering all resolutions from 1 to 12.
+1. DGGS Conversion: The service takes non-DGGS geospatial datasets and converts them into the DGGS Geohash grid id system, covering all resolutions from 1 to 12.
 
-2. Statistics Calculation: Post alignment with the UNL Geohash grid ids, ClickHouse computes a plethora of statistics for intersecting points across all resolutions. These statistics encompass:
+2. Statistics Calculation: Post alignment with the DGGS Geohash grid ids, ClickHouse computes a plethora of statistics for intersecting points across all resolutions. These statistics encompass:
 
 2.1 Count: Total points within a cell.
 
@@ -18,7 +18,7 @@ Quantization using ClickHouse is a service in for Converting Non-DGGS data to DG
 
 ### How Does It Work?
 
-The subsequent steps detail out the systematic procedure adopted by the "Quantization using ClickHouse" service. With each step, we showcase the inner mechanics of the back-end, ensuring that the geospatial data aligns perfectly with the UNL Geohash Grid ID system. The steps are as follows:
+The subsequent steps detail out the systematic procedure adopted by the "Quantization using ClickHouse" service. With each step, we showcase the inner mechanics of the back-end, ensuring that the geospatial data aligns perfectly with the DGGS Geohash Grid ID system. The steps are as follows:
 
 1. Data Ingestion from .json in JSONEachRow Format
 2. Geohash Grid Generation
