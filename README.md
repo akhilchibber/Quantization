@@ -25,3 +25,9 @@ The subsequent steps detail out the systematic procedure adopted by the "Quantiz
 3. Compute Statistics
 4. Transform Data to Desired Nested Schema
 5. Cleanup - Remove Temporary Tables
+
+## Contact
+
+Author - Akhil Chhibber
+
+LinkedIn: https://www.linkedin.com/in/akhilchhibber/
