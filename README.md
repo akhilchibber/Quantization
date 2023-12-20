@@ -28,6 +28,6 @@ The subsequent steps detail out the systematic procedure adopted by the "Quantiz
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
